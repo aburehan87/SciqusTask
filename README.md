@@ -72,6 +72,8 @@ A well-designed Java Spring Boot application with the following features:
 
 8. **Access the Application:**
    - Open a browser or Postman and hit the API endpoints (e.g., `http://localhost:8080/api/students`, `http://localhost:8080/api/courses`) to interact with the application.
+
+
 In the below images, some students have no email and some students have no course allocated. This is to show the course dissociation as mentioned in the task.
 
 SCREENSHOTS:
