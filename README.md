@@ -92,3 +92,7 @@ SCREENSHOTS:
 ![Screenshot 2025-01-23 183958](https://github.com/user-attachments/assets/c42edefb-64a5-40b5-b2f7-1d07ed8668a7)
 
 ![Screenshot 2025-01-23 183950](https://github.com/user-attachments/assets/da7887ed-6eb9-42ff-a0cd-757a42ebcad5)
+
+![Screenshot 2025-01-23 192921](https://github.com/user-attachments/assets/cfdcbb70-4ee1-4ca0-a853-061717bd436c)
+
+![Screenshot 2025-01-23 192911](https://github.com/user-attachments/assets/f93befed-7169-4b6d-aebd-c613857343a2)
