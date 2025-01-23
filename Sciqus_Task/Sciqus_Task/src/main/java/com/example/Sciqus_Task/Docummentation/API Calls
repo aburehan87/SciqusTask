@@ -1,0 +1,33 @@
+                                      S T U D E N T S
+
+
+METHODS                                 POSTMAN REQUEST                 API CALLS
+-------                                 ----------------                ----------
+
+Default                                                                 /api/students
+
+
+FOR CRUD OPERATIONS:
+
+1. Registering a Student:               POST                            /api/students/register
+2. Get All Students:                    GET                             /api/students/all
+3. Get Student by ID:                   GET                             /api/students/{id}
+4. Get Students by course               GET                             /api/students/course/{id}
+5. Update Student:                      PUT                             /api/students/{id}
+6. Dissociate Student from course       PUT                             /api/students/{id}/dissociate-course
+7. Delete a student by ID               DELETE                          /api/students/{id}
+
+
+
+
+                                       C O U R S E S
+
+Default                                                                 /api/courses
+
+1. Registering a Course:                POST                            /api/courses/register
+2. Get All Courses:                     GET                             /api/courses/all
+3. GET course by ID:                    GET                             /api/courses/{id}
+4. Update course by ID:                 PUT                             /api/courses/{id}
+5  Dissociate student and del course:   DELETE                          /api/courses/{courseId}/dissociate
+6. Delete courses By ID:                DELETE                          /api/courses/{id}
+
